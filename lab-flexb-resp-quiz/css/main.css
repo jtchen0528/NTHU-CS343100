@@ -1,0 +1,24 @@
+
+.header-text {
+    color: white;
+    text-shadow: 0 0 12px #000000;
+    margin: auto;
+}
+
+.image-bg-header {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background: url('../images/sand.jpg') no-repeat center center scroll;
+    height: 300px;
+    margin: auto;
+}
+@media (max-width:500px){
+#im{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}
+}

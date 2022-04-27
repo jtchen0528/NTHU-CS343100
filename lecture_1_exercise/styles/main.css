@@ -1,0 +1,33 @@
+
+h1 {
+    color: black;
+    text-align: left;
+    float: left;
+    font-family: Arial;
+}
+
+button {
+    border-width: 0;
+    border-radius: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.log {
+    padding-top: 50px;
+    padding-left: 260px;
+
+    text-align: left;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+}
+
+.para {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #9c9c9c
+}
+

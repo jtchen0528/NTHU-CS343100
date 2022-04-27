@@ -1,0 +1,36 @@
+h1 {
+    color: White;
+    text-align: center;
+}
+
+#RGBtitle{
+    padding-top: 50px;
+}
+
+#Hint {
+    color: White;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+body{
+    background-color: black;
+}
+
+button {
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: White;
+    align-self:  center;
+
+}
+
+.colorbut{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.Colors{
+    text-align: center;
+}
